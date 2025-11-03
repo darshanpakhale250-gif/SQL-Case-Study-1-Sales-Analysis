@@ -1,0 +1,7 @@
+SQL-Case-Study-1-Sales-Analysis/
+│
+├── SQL-Case-Study-1-Cleaned.docx      # Case study problem & tasks
+├── Case Study 1.txt                   # SQL queries/solutions
+├── Case Study 1.ssmssln               # SSMS solution file
+├── README.md                          # Project overview
+└── .gitignore                         # Ignore temp & backup files
